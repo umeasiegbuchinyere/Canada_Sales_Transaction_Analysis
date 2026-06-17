@@ -30,5 +30,11 @@ The dataset used in this project is a sample Canadian sales transaction dataset 
 shipping costs, and order fulfillment activities across multiple regions in Canada. The data was obtained for analytical and educational purposes and was 
 used to demonstrate business intelligence, data modeling, and visualization techniques in Power BI.
 
+## Problem Statement
+
+The company lacks a clear understanding of the factors influencing sales performance, profitability, customer behavior, and order fulfillment outcomes. 
+This project analyzes Canadian sales transaction data to identify key trends, measure business performance, and provide actionable insights that support 
+data-driven decision-making and business growth.
+
 
 
