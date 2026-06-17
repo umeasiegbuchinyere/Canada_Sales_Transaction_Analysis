@@ -18,5 +18,10 @@
 
 ##  Project Overview
 
+This project analyzes sales transaction data across Canada to evaluate business performance, profitability, customer purchasing behavior, and product
+performance. The analysis focuses on identifying key revenue drivers, measuring the profitability of delivered orders, assessing order fulfillment efficiency,
+and uncovering trends that support strategic decision-making. By transforming transactional data into meaningful insights, the project helps stakeholders
+understand business performance, optimize operations, and identify opportunities for growth and increased profitability.
+
 
 
