@@ -57,7 +57,8 @@ Data Modeling – Built relationships between multiple tables to enable accurate
 
 DAX Calculations – Created custom measures and calculated columns to derive key business metrics and insights.
 
-KPI Development – Designed dynamic KPI cards to track critical metrics such as Total Sales, Total Profit, Delivered Sales, Delivered Profit, Profit Margin, Total Orders, and Returned Orders.
+KPI Development – Designed dynamic KPI cards to track critical metrics such as Total Sales, Total Profit, Delivered Sales, Delivered Profit, Profit Margin,
+Total Orders, and Returned Orders.
 
 Sales Performance Analysis – Analyzed revenue trends, regional performance, and sales distribution across different customer segments.
 
@@ -78,6 +79,46 @@ Business Intelligence & Reporting – Transformed transactional data into action
 Data Storytelling – Presented analytical findings through clear visualizations and business-focused insights.
 
 Decision Support Analytics – Generated insights to support product promotion, profitability improvement, customer retention, and strategic planning.
+
+
+## Visualisations
+
+<img width="999" height="558" alt="Canada_Sales_Transaction_Dashboard" src="https://github.com/user-attachments/assets/482be75e-e2df-4ea3-bc62-e50f07ba77b9" />
+
+
+## Insights from Analysis
+
+Strong Revenue Generation
+The company generated approximately $14.92M in total sales, indicating strong market demand and a healthy sales volume across Canada.
+
+Healthy Profitability
+Total profit amounted to $1.52M, resulting in a profit margin of approximately 10%, meaning the business earns about $0.10 in profit for every $1 of sales generated.
+
+Delivered Orders Drive Business Performance
+Successfully delivered orders contributed $13.26M in sales and $1.32M in profit, demonstrating that the majority of revenue and profitability comes from completed transactions.
+
+Order Return Impact
+A total of 872 orders were returned, representing potential revenue leakage and highlighting the need to investigate return causes and improve customer satisfaction.
+
+Regional Performance Variation
+The West region recorded the highest sales performance, making it the company's strongest market and a key area for continued investment and growth initiatives.
+
+Product Category Profitability
+Office Supplies emerged as the most profitable product category, followed by Technology and Furniture, indicating where promotional and inventory efforts should be prioritized.
+
+Customer Segment Contribution
+Consumer and Corporate customers contributed a significant share of overall sales, emphasizing the importance of retaining these customer groups through targeted 
+engagement strategies.
+
+Peak Sales Periods
+Sales activity was highest on Fridays and Saturdays, suggesting increased customer purchasing behavior towards the weekend and opportunities for targeted marketing campaigns.
+
+Product Performance Opportunities
+The analysis identified top-performing products that should continue to receive promotional support, while low-profit products may require pricing reviews, cost optimization, or discontinuation assessment.
+
+Operational Efficiency Opportunity
+Reducing product returns and improving order fulfillment processes could significantly enhance overall profitability and customer experience.
+
 
 
 
