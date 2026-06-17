@@ -24,4 +24,11 @@ and uncovering trends that support strategic decision-making. By transforming tr
 understand business performance, optimize operations, and identify opportunities for growth and increased profitability.
 
 
+## Data Source
+
+The dataset used in this project is a sample Canadian sales transaction dataset containing historical records of customer orders, product sales, profits, 
+shipping costs, and order fulfillment activities across multiple regions in Canada. The data was obtained for analytical and educational purposes and was 
+used to demonstrate business intelligence, data modeling, and visualization techniques in Power BI.
+
+
 
