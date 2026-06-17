@@ -36,5 +36,17 @@ The company lacks a clear understanding of the factors influencing sales perform
 This project analyzes Canadian sales transaction data to identify key trends, measure business performance, and provide actionable insights that support 
 data-driven decision-making and business growth.
 
+## Tools Used
+
+Power BI – For data visualization, dashboard creation, and business intelligence reporting.
+
+Power Query – For data cleaning, transformation, and preparation.
+
+DAX (Data Analysis Expressions) – For creating calculated columns, measures, KPIs, and business metrics.
+
+Data Modeling – For establishing relationships between tables and optimizing data analysis.
+
+Microsoft Excel / CSV Dataset – As the source data format for sales transaction records.
+
 
 
