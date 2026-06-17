@@ -46,7 +46,38 @@ DAX (Data Analysis Expressions) – For creating calculated columns, measures, K
 
 Data Modeling – For establishing relationships between tables and optimizing data analysis.
 
-Microsoft Excel / CSV Dataset – As the source data format for sales transaction records.
+Microsoft Excel – As the source data format for sales transaction records.
+
+
+##  Skills Demonstrated
+
+Data Cleaning & Transformation – Cleaned, prepared, and transformed raw sales transaction data using Power Query.
+
+Data Modeling – Built relationships between multiple tables to enable accurate analysis and reporting.
+
+DAX Calculations – Created custom measures and calculated columns to derive key business metrics and insights.
+
+KPI Development – Designed dynamic KPI cards to track critical metrics such as Total Sales, Total Profit, Delivered Sales, Delivered Profit, Profit Margin, Total Orders, and Returned Orders.
+
+Sales Performance Analysis – Analyzed revenue trends, regional performance, and sales distribution across different customer segments.
+
+Profitability Analysis – Evaluated overall and delivered-order profitability to assess business performance.
+
+Customer Analytics – Analyzed customer demographics, purchasing behavior, and order patterns.
+
+Product Performance Analysis – Identified top-selling products, most profitable categories, and low-profit products requiring management attention.
+
+Order Fulfillment Analysis – Assessed delivered and returned orders to evaluate operational efficiency.
+
+Trend Analysis – Examined sales performance across different time periods to identify patterns and opportunities.
+
+Interactive Dashboard Design – Developed user-friendly and interactive Power BI visualizations to support decision-making.
+
+Business Intelligence & Reporting – Transformed transactional data into actionable insights for management and stakeholders.
+
+Data Storytelling – Presented analytical findings through clear visualizations and business-focused insights.
+
+Decision Support Analytics – Generated insights to support product promotion, profitability improvement, customer retention, and strategic planning.
 
 
 
