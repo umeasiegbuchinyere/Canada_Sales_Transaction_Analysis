@@ -7,7 +7,21 @@
 
 -[Project Overview](#Project-Overview)
 
--[Data Source](Data-Source)
+-[Data Source](#Data-Source)
+
+-[Problem Statement](#Problem-Statement)
+
+-[Tools Used](#Tools-Used)
+
+-[Skills Demonstrated](#Skills-Demonstrated)
+
+-[Visualisations](#Visualisations)
+
+-[Insights from Analysis](#Insights-from-Analysis)
+
+-[Conclusions](#Conclusions)
+
+-[Recommendation](#Recommendation)
 
 
 
